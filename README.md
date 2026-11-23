@@ -2,6 +2,10 @@
 
 The Python side of a static fashion storefront: building the catalogue, validating it and publishing it safely. The front-end itself is not in this repository.
 
+![Live Better Style catalogue](showcase/live_catalogue_grid.png)
+
+*The live catalogue, captured 2026-11-23. This repository holds the Python asset and validation pipeline behind it; the browser front-end lives separately.*
+
 ## Live Production Output -> Source Code
 
 | Live page | Source |
